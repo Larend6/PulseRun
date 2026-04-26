@@ -1,4 +1,6 @@
 <p align="center">
+  <img width="1200" height="230" alt="PULSERUN" src="https://github.com/user-attachments/assets/fd89dda2-5bfe-4575-909f-1b1c42871c1c" />
+
   <h1 align="center">PulseRun</h1>
   <p align="center">
     Aplikasi monitoring aktivitas olahraga sederhana berbasis Flutter,
@@ -7,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-3.38.9-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img alt="Dart" src="https://img.shields.io/badge/Dart-3.10-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img alt="Platform" src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img alt="Status" src="https://img.shields.io/badge/Status-Prototype-179C77?style=for-the-badge">
